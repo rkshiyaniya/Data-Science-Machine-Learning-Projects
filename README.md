@@ -5,6 +5,7 @@ This Repository Contains different Machine Learning Projects on various dataset.
 
 * Dataset used : [Click here to download](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 * Here I have uploaded 2 versions of this project. Difference between these two versions is Feature Selection based on correlation.
+* Also tried various methods for data preparation like handle outliers and data imbalance.
 * Version 1 : This [Notebook](https://github.com/rkshiyaniya/Machine-Learning-Classification-And-Regression-Projects/blob/main/Breast%20Cancer%20Classification%201.ipynb) contains simple method for feature selection based on correlation with target attribute.
 * Version 2 : This [Notebook](https://github.com/rkshiyaniya/Machine-Learning-Classification-And-Regression-Projects/blob/main/Breast%20Cancer%20Classification%202.ipynb) contains logistic regression method for feature selection based on column's accuracy.
 
