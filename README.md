@@ -21,5 +21,5 @@ This Repository Contains different Machine Learning Projects on various dataset.
 # Nutrition Facts for McDonald's Menu
 
 * Dataset used : [Click here to download](https://www.kaggle.com/mcdonalds/nutrition-facts)
-* This [Notebook](https://github.com/rkshiyaniya/Machine-Learning-Classification-And-Regression-Projects/blob/main/Red%20Wine%20Quality.ipynb) contains Exploratory Data Analysis and Visualization about Nutritions in McDonald's Menu
+* This [Notebook](https://github.com/rkshiyaniya/Machine-Learning-Classification-And-Regression-Projects/blob/main/McDonald's%20Menu.ipynb) contains Exploratory Data Analysis and Visualization about Nutritions in McDonald's Menu
 
