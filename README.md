@@ -1,7 +1,7 @@
 # Machine-Learning-Classification-And-Regression-Projects
 This Repository Contains different Machine Learning Projects on various dataset. From Exploratory Data Analysis - Visualization to Prediction and Classification.
 
-# Breast Cancer Classification
+# Breast Cancer Predication
 
 * Dataset used : [Click here to download](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 * Here I have uploaded 2 versions of this project. Difference between these two versions is Feature Selection based on correlation.
@@ -11,7 +11,7 @@ This Repository Contains different Machine Learning Projects on various dataset.
 * Version 2 : This [Notebook](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Breast%20Cancer%20Classification%202.ipynb) contains logistic regression method for feature selection based on column's accuracy.
 * Able to got ~100% accuracy.
 
-# Red Wine Quality Prediction Classification
+# Red Wine Quality Prediction
 
 * Dataset used : [Click here to download](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
 * Notebook contains in-depth insight into Dataset - Exploratory Data Analysis, Visualization and Data Preparation.
@@ -26,7 +26,7 @@ This Repository Contains different Machine Learning Projects on various dataset.
 * Notebook contains - Data Preprocessing by Scaling, Transforming into One-hot vectors, Data Preparation for model bulding and Model evaluation.
 * This [Notebook](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Proj_Loan.ipynb) contains end-to-end implementation of the projects and used different Classification algorithms.
 
-# Patient Drugs Prediction Classification 
+# Patient Drugs Prediction 
 
 * Dataset used : [Click here to download](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/drug200.csv)
 * Notebook contains end-to-end implementation of Decision Tree Classifier with printing tree also.
