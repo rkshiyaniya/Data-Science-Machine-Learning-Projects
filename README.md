@@ -26,6 +26,12 @@ This Repository Contains different Machine Learning Projects on various dataset.
 * Notebook contains - Data Preprocessing by Scaling, Transforming into One-hot vectors, Data Preparation for model bulding and Model evaluation.
 * This [Notebook](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Proj_Loan.ipynb) contains end-to-end implementation of the projects and used different Classification algorithms.
 
+# Customer Segmentation - K-means
+
+* Dataset used : [Click here to download](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/labs/customer_segmentation.csv)
+* This [Notebook](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Clustering_k_means.ipynb) contains in-depth explaination of K-means clustering algorithm with it's working visualization on randomly generated dataset.
+* Also, Used K-means to segment customers to 3 different Clusters.
+
 # Patient Drugs Prediction 
 
 * Dataset used : [Click here to download](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/drug200.csv)
