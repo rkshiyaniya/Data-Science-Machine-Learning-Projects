@@ -18,7 +18,7 @@ This Repository Contains different Machine Learning Projects on various dataset.
 * This [Notebook](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Red%20Wine%20Quality.ipynb) contains simple method for feature selection based on correlation with target attribute.
 * Tried different algorithms for classification and got ~98% accuracy.
 
-# Loan Prediction
+# Loan Answer Prediction
 
 * Dataset used : 
 - Train - [Click here to download](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/loan_train.csv)
