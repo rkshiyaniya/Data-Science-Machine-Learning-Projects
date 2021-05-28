@@ -1,8 +1,6 @@
 # Machine-Learning-Classification-And-Regression-Projects
 This Repository Contains different Machine Learning Projects on various dataset. From Exploratory Data Analysis - Visualization to Prediction and Classification.
 
-# Classification Projects -
-
 # Breast Cancer Classification
 
 * Dataset used : [Click here to download](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
@@ -28,9 +26,7 @@ This Repository Contains different Machine Learning Projects on various dataset.
 * This [Notebook](https://github.com/rkshiyaniya/Machine-Learning-Classification-And-Regression-Projects/blob/main/Decision_Trees_drugs.ipynb) contains data preprocessing, model building and model evaluation.
 * Got ~98%+ accuracy.
 
-# Exploratory Data Analysis Projects -
-
-# Nutrition Facts for McDonald's Menu
+# Nutrition Facts for McDonald's Menu Analysis
 
 * Dataset used : [Click here to download](https://www.kaggle.com/mcdonalds/nutrition-facts)
 * This [Notebook](https://github.com/rkshiyaniya/Machine-Learning-Classification-And-Regression-Projects/blob/main/McDonald's%20Menu.ipynb) contains Exploratory Data Analysis and Visualization about Nutritions in McDonald's Menu
