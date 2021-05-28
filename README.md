@@ -20,6 +20,14 @@ This Repository Contains different Machine Learning Projects on various dataset.
 * This [Notebook](https://github.com/rkshiyaniya/Machine-Learning-Classification-And-Regression-Projects/blob/main/Red%20Wine%20Quality.ipynb) contains simple method for feature selection based on correlation with target attribute.
 * Tried different algorithms for classification and got ~98% accuracy.
 
+# Patient Drugs Prediction Classification 
+
+* Dataset used : [Click here to download](https://github.com/rkshiyaniya/Machine-Learning-Classification-And-Regression-Projects/blob/main/drug200.csv)
+* Notebook contains end-to-end implementation of Decision Tree Classifier with printing tree also.
+* Tree : [Click here to view](https://github.com/rkshiyaniya/Machine-Learning-Classification-And-Regression-Projects/blob/main/drugtree.png)
+* This [Notebook](https://github.com/rkshiyaniya/Machine-Learning-Classification-And-Regression-Projects/blob/main/Decision_Trees_drugs.ipynb) contains data preprocessing, model building and model evaluation.
+* Got ~98%+ accuracy.
+
 # Exploratory Data Analysis Projects -
 
 # Nutrition Facts for McDonald's Menu
