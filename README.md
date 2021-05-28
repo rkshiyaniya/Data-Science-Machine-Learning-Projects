@@ -18,6 +18,14 @@ This Repository Contains different Machine Learning Projects on various dataset.
 * This [Notebook](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Red%20Wine%20Quality.ipynb) contains simple method for feature selection based on correlation with target attribute.
 * Tried different algorithms for classification and got ~98% accuracy.
 
+# Loan Prediction
+
+* Dataset used : 
+- Train - [Click here to download](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/loan_train.csv)
+- Test - [Click here to download](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/loan_test.csv)
+* Notebook contains - Data Preprocessing by Scaling, Transforming into One-hot vectors, Data Preparation for model bulding and Model evaluation.
+* This [Notebook](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Proj_Loan.ipynb) contains end-to-end implementation of the projects and used different Classification algorithms.
+
 # Patient Drugs Prediction Classification 
 
 * Dataset used : [Click here to download](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/drug200.csv)
